@@ -43,6 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 > Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
 
 - Clone o repositório do back-end e siga o tutorial de execução [aqui](https://github.com/anacarolinedantas/nwl-heat-node);
+- Clone o repositório atual e acesse a pasta;
 - Instale as dependências com `yarn`;
 - Inicie o servidor com `yarn dev`;
 
